@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ambiente python vscode
+__pycache__/
+.git/
+.pyc
+workspace.code-workspace
+v_curso/
+.vscode/
+slides-curso/

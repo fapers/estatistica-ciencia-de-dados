@@ -1,0 +1,20 @@
+1) População e amostra
+2) Tabela de números aleatórios
+3) Amostragem aleatória simples
+4) Amostragem sistemática
+5) Amostragem por grupos
+6) Amostragem estratificada
+7) Amostragem de reservatório
+8) Dados desbalanceados
+
+POPULAÇÃO E AMOSTRA
+A amostra é sempre menor que a População
+Mais rápido para processar
+Menor tempo para analisar
+Os números que são obtidos da amostra são as estatísticas
+A amostra precisa ser randômica e representativa
+
+TIPOS DE Amostragem
+Smpling Methods
+-> Chances iguais de serem selecionados (Probability Sampling): Simple Random, Systematic, Stratified e Cluster.
+-> Não possuem chances iguais - risco de não representatividade (Non-Probability Sampling): Estudo de campo: Convenience, Quota, Judgement, Snowball
